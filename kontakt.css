@@ -1,0 +1,22 @@
+select{
+    color:blue;
+    background-color:bisque;
+    font-size: 100%;
+}
+input[type="text"], input[type="email"]{
+    color:black;
+    background-color: white;
+    font-size: 200;
+}
+
+input[date]{
+    color:white;
+    background-color: black;
+    font-size: 100%;
+}
+
+input[type="submit"]{
+    background-color: black;
+    color:white;
+    font-size: 100%;
+}
